@@ -71,4 +71,5 @@ python main.py
 
 ---
 **That's it!** Your AI email assistant is ready to help with PDF-based email reponse automation
-**Note:** The Generated mail will be saved in Draft
+
+- **Note:** The Generated mail will be saved in Draft
